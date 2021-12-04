@@ -1,4 +1,4 @@
-package com.alferov-ep;
+package com.alferovep;
 
 import static org.junit.Assert.assertTrue;
 
